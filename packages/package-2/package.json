@@ -1,5 +1,5 @@
 {
-  "name": "package-2",
+  "name": "@cr-common/package-2",
   "version": "1.1.0",
   "description": "> TODO: description",
   "author": "Reddaiah Challa <reddaiah.challa@hexagonsi.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/crnaidu15/lerna-test/issues"
-  }
+  },
+  "gitHead": "bb5c91baa155f648a1a6e13298afbe70f3d56a6a"
 }
