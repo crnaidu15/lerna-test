@@ -1,4 +1,4 @@
 const add = (a, b, c) => a + b + c;
 
-// Export add
+// Export add test
 export { add };
