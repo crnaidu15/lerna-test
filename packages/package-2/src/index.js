@@ -1,3 +1,3 @@
 const subtract = (a, b, c) => a - (b + c);
 
-export { subtract };
+export { default as subtract };
