@@ -13,12 +13,12 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "pre-publish": "NODE_ENV=production && rm -rf dist && mkdir dist && npx babel src/components --out-dir dist --copy-files",
-    "publish": "npm run pre-publish && cp package.json ./dist && cd ./dist && npm publish"
+    "release": "npm run pre-publish && cp package.json ./dist && cd ./dist && npm publish"
   },
   "bugs": {
     "url": "https://github.com/crnaidu15/lerna-test/issues"
   },
-  "gitHead": "c2501ae552e1d2d1d943af3f4734597b3bb80fef",
+  "gitHead": "ee250756fcdbdbbf64a5f72218edc5c0e7185d62",
   "dependencies": {
     "react": "^16.8.6"
   },
