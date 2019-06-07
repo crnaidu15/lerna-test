@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/crnaidu15/lerna-test/issues"
   },
-  "gitHead": "08052d893e6c5a2a84cf06ceef1450241660498b",
+  "gitHead": "5fdfdd87dbb4b2a1c9674f6f8777be8dc9b676c4",
   "dependencies": {
     "react": "^16.8.6"
   },
