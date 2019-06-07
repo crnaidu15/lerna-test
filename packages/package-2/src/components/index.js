@@ -1,11 +1,7 @@
 import * as native from './native';
 import * as web from './web';
 
-export default {
-    native,
-    web
-}
+export default web;
+export { native };
 
-export * from './native';
-export * from './web';
 
