@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-const Button = () => {
-    return (
-        <p>Web Button tag</p>
-    )
+class Button extends Component {
+    render() {
+        return (
+            <button onClick={() => alert('hi')}>
+                Web Button
+            </button>
+        )
+    }
 }
 
 export default Button;
