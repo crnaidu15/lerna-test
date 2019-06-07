@@ -25,11 +25,12 @@
   "bugs": {
     "url": "https://github.com/crnaidu15/lerna-test/issues"
   },
-  "gitHead": "f21f1811331de5697a41662137f350e07f063f90",
+  "gitHead": "5fe133137fe9782a3d306c2deebd1cb9b1f8f075",
   "dependencies": {
     "react": "^16.8.6"
   },
   "devDependencies": {
+    "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.5",
     "babel-cli": "^6.26.0"
   }
