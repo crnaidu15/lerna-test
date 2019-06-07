@@ -2,7 +2,7 @@ import React from 'react';
 
 const Button = () => {
     return (
-        <p>Native Button tag</p>
+        <div>Native Button</div>
     )
 }
 
