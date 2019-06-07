@@ -2,7 +2,7 @@ import React from 'react';
 
 const Button = () => {
     return (
-        <p>Web Button</p>
+        <p>Web Button tag</p>
     )
 }
 
